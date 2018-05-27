@@ -1,0 +1,11 @@
+2018-05-27 12:22:20.790  INFO ard333-machine --- [           main] onfigReactiveWebServerApplicationContext : Refreshing org.springframework.boot.web.reactive.context.AnnotationConfigReactiveWebServerApplicationContext@47a35929: startup date [Sun May 27 12:22:20 WIB 2018]; root of context hierarchy
+2018-05-27 12:22:23.413  INFO ard333-machine --- [           main] o.s.w.r.h.SimpleUrlHandlerMapping        : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.reactive.resource.ResourceWebHandler]
+2018-05-27 12:22:23.417  INFO ard333-machine --- [           main] o.s.w.r.h.SimpleUrlHandlerMapping        : Mapped URL path [/**] onto handler of type [class org.springframework.web.reactive.resource.ResourceWebHandler]
+2018-05-27 12:22:23.589  INFO ard333-machine --- [           main] o.s.w.r.r.m.a.ControllerMethodResolver   : Looking for @ControllerAdvice: org.springframework.boot.web.reactive.context.AnnotationConfigReactiveWebServerApplicationContext@47a35929: startup date [Sun May 27 12:22:20 WIB 2018]; root of context hierarchy
+2018-05-27 12:22:24.629  INFO ard333-machine --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-05-27 12:22:24.842  INFO ard333-machine --- [ctor-http-nio-1] r.i.n.t.BlockingNettyContext             : Started HttpServer on /0:0:0:0:0:0:0:0:8080
+2018-05-27 12:22:24.843  INFO ard333-machine --- [           main] o.s.b.w.e.n.NettyWebServer               : Netty started on port(s): 8080
+2018-05-27 12:22:24.852  WARN ard333-machine --- [           main] i.w.a.s.SpringBootLog4j2Application      : Hey, This is a warning!
+2018-05-27 12:22:24.854 ERROR ard333-machine --- [           main] i.w.a.s.SpringBootLog4j2Application      : Hey, We have an Error here.
+2018-05-27 12:22:24.854 FATAL ard333-machine --- [           main] i.w.a.s.SpringBootLog4j2Application      : WTF! Fatal error.
+2018-05-27 12:23:10.615  INFO ard333-machine --- [       Thread-8] onfigReactiveWebServerApplicationContext : Closing org.springframework.boot.web.reactive.context.AnnotationConfigReactiveWebServerApplicationContext@47a35929: startup date [Sun May 27 12:22:20 WIB 2018]; root of context hierarchy
