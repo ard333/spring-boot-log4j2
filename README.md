@@ -6,9 +6,7 @@ Example Log4j2 in Spring Boot
  - Log4j2
  - Disruptor 3.4.1 (for Async Logging)
 
-
-
-
+<br/><br/><br/>
 [When to use the different log levels?](https://stackoverflow.com/a/2031209)
 
 **Trace** - Only when I would be "tracing" the code and trying to find one part of a function specifically.
